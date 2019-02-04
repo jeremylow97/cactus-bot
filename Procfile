@@ -1,1 +1,1 @@
-worker: java -jar target/cactus97bot.jar MainClass
+worker: java -jar out/artifacts/cactus97bot_jar/cactus97bot.jar MainClass
