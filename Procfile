@@ -1,1 +1,1 @@
-web: sh target/bin/workerBot
+worker: java -jar target/java-telegram-bot-heroku-starter.jar MainClass
