@@ -1,1 +1,1 @@
-worker: java -jar target/java-telegram-bot-heroku-starter.jar MainClass
+worker: java -jar target/cactus97bot.jar MainClass
